@@ -1,0 +1,134 @@
+/******************************TAG SELECTOR******************************/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    
+    
+} 
+h1{
+    font-size:5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin-top: 50px auto 0 auto;
+    color: #66BFBF;
+    
+}    
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.dev{
+    text-decoration:underline ;
+}
+.top_container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top : 100px;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin: 0;
+}
+.johnnie{
+    width: 200px;
+}
+.code, tech{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+   
+}
+.tech{
+    width: 25%;
+    float: right; 
+    margin-left: 30px;
+    
+}
+.skl{
+    margin: 50px 0 0 0;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.bottom-cloud {
+      position:absolute;
+      bottom: 300px;
+      left: 300px;
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr{
+    background-color: white;
+    border-style: dotted none none none;
+    height: 0px;
+    width: 5%;
+    border-width: 4px;
+    border-color: grey;
+}
+.p-bottom{
+    margin: 50px 0 0 0 ;
+}
+.bottom-container{
+    padding-top: 50px;
+    color: #EAF6F6;    
+   
+}
+.contact-me{
+    padding: 20px;
+    line-height: 2;
+    margin: 40px auto 60px;
+
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    width: 40%;
+    margin: 40px auto 60px;
+    padding: 10px 25px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #66BFBF;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+      background-color: #11999E
+}
+  .span:hover {
+      background-color: #3e8e41
+    }
+  .btn:active {
+    background-color: #66BFBF;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .footer-link{
+      text-decoration: none;
+      margin: 0 10px;
+      font-size: 15px;
+      color: #11999E;
+  }
